@@ -6,7 +6,7 @@ angular.module('video-player')
     video: '<'
   },
   controller: function () {
-      // console.log('VP controller: ', JSON.stringify(this));
+      // console.log(this);
       
   },
   templateUrl: 'src/templates/videoPlayer.html'
