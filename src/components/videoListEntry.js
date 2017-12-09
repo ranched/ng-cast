@@ -6,6 +6,7 @@ angular.module('video-player')
     click: '<'
   },
   controller: function() {
+    console.log('vle: ', this);
   },
   
   templateUrl: 'src/templates/videoListEntry.html'

@@ -6,7 +6,8 @@ angular.module('video-player')
     click: '<'
   },
   controller: function() {
-    
+
+  
   },
   templateUrl: 'src/templates/videoList.html'
 });
